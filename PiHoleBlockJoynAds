@@ -1,5 +1,6 @@
 # Small handcrafted Pi-hole black list by BenK885 for blocking ads on Joyn's streaming service 'http://www.joyn.de'.
 # Github repository on https://github.com/BenK885/PiHoleBlocklists/
+
 0.0.0.0 hybrid-prd.ad-prd.s.joyn.de
 0.0.0.0 a-fds.youborafds01.com
 0.0.0.0 ab-testing.prd.data.s.joyn.de
