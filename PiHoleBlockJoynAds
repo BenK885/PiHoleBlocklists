@@ -1,3 +1,4 @@
+# Small handcrafted Pi-hole black list for blocking ads on Joyn's streaming service.
 hybrid-prd.ad-prd.s.joyn.de
 a-fds.youborafds01.com
 ab-testing.prd.data.s.joyn.de
