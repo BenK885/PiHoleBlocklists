@@ -1,5 +1,5 @@
 # Small handcrafted Pi-hole black list for blocking ads on Joyn's streaming service.
-hybrid-prd.ad-prd.s.joyn.de
-a-fds.youborafds01.com
-ab-testing.prd.data.s.joyn.de
-app.launchdarkly.com
+0.0.0.0 hybrid-prd.ad-prd.s.joyn.de
+0.0.0.0 a-fds.youborafds01.com
+0.0.0.0 ab-testing.prd.data.s.joyn.de
+0.0.0.0 app.launchdarkly.com
