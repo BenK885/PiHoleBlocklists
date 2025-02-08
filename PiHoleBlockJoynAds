@@ -15,7 +15,6 @@
 0.0.0.0 rr1---sn-4g5ednsr.googlevideo.com
 0.0.0.0 e14768.dscb.akamaiedge.net
 0.0.0.0 a-fds.youborafds01.com
-0.0.0.0 entitlement-prod-cf.t1p-entitlementservice.aws.route71.net
 0.0.0.0 infinity-c39.youboranqs01.com
 
 # IPv6
@@ -32,5 +31,4 @@
 :: rr1---sn-4g5ednsr.googlevideo.com
 :: e14768.dscb.akamaiedge.net
 :: a-fds.youborafds01.com
-:: entitlement-prod-cf.t1p-entitlementservice.aws.route71.net
 :: infinity-c39.youboranqs01.com
