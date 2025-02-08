@@ -13,6 +13,8 @@
 0.0.0.0 cerberus.sqrt-5041.de
 0.0.0.0 redirector.gvt1.com
 0.0.0.0 rr1---sn-4g5ednsr.googlevideo.com
+0.0.0.0 e14768.dscb.akamaiedge.net
+0.0.0.0 a-fds.youborafds01.com
 
 # IPv6
 :: hybrid-prd.ad-prd.s.joyn.de
@@ -26,3 +28,5 @@
 :: cerberus.sqrt-5041.de
 :: redirector.gvt1.com
 :: rr1---sn-4g5ednsr.googlevideo.com
+:: e14768.dscb.akamaiedge.net
+:: a-fds.youborafds01.com
