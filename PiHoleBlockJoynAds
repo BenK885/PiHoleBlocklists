@@ -8,6 +8,7 @@
 0.0.0.0 app.launchdarkly.com
 0.0.0.0 event-collector.prd.data.s.joyn.de
 0.0.0.0 cerberus.sqrt-5041.de
+0.0.0.0 entitlement.p7s1.io
 
 # IPv6
 :: hybrid-prd.ad-prd.s.joyn.de
@@ -16,3 +17,4 @@
 :: app.launchdarkly.com
 :: event-collector.prd.data.s.joyn.de
 :: cerberus.sqrt-5041.de
+:: entitlement.p7s1.io
