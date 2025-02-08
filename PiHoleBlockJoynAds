@@ -15,6 +15,7 @@
 0.0.0.0 rr1---sn-4g5ednsr.googlevideo.com
 0.0.0.0 e14768.dscb.akamaiedge.net
 0.0.0.0 a-fds.youborafds01.com
+0.0.0.0 entitlement-prod-cf.t1p-entitlementservice.aws.route71.net
 
 # IPv6
 :: hybrid-prd.ad-prd.s.joyn.de
@@ -30,3 +31,4 @@
 :: rr1---sn-4g5ednsr.googlevideo.com
 :: e14768.dscb.akamaiedge.net
 :: a-fds.youborafds01.com
+:: entitlement-prod-cf.t1p-entitlementservice.aws.route71.net
