@@ -9,7 +9,6 @@
 0.0.0.0 event-collector.prd.data.s.joyn.de
 0.0.0.0 cerberus.sqrt-5041.de
 0.0.0.0 entitlement.p7s1.io
-0.0.0.0 events.launchdarkly.com
 0.0.0.0 swankyrule.zomap.de
 0.0.0.0 event-collector.prd.data.s.joyn.de
 0.0.0.0 entitlement-prod-cf.t1p-entitlementservice.aws.route71.net
@@ -23,7 +22,6 @@
 :: event-collector.prd.data.s.joyn.de
 :: cerberus.sqrt-5041.de
 :: entitlement.p7s1.io
-:: events.launchdarkly.com
 :: swankyrule.zomap.de
 :: event-collector.prd.data.s.joyn.de
 :: entitlement-prod-cf.t1p-entitlementservice.aws.route71.net
