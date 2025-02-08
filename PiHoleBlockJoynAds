@@ -9,6 +9,7 @@
 0.0.0.0 cerberus.sqrt-5041.de
 0.0.0.0 swankyrule.zomap.de
 0.0.0.0 ep-tr-event-adtech-prod-joyn.t1p-adtech.aws.route71.net
+0.0.0.0 adtec-guardian-creative-delivery.s3.eu-central-1.amazonaws.com
 
 # IPv6
 :: hybrid-prd.ad-prd.s.joyn.de
@@ -18,3 +19,4 @@
 :: cerberus.sqrt-5041.de
 :: swankyrule.zomap.de
 :: ep-tr-event-adtech-prod-joyn.t1p-adtech.aws.route71.net
+:: adtec-guardian-creative-delivery.s3.eu-central-1.amazonaws.com
